@@ -18,7 +18,7 @@
       "respectprimarykeyattributesonconnectionfield": true,
       "shoulddeepmergedirectiveconfigdefaults": false,
       "populateownerfieldforstaticgroupauth": true,
-      "subscriptionsinheritprimaryauth": false
+      "subscriptionsinheritprimaryauth": true
     },
     "frontend-ios": {
       "enablexcodeintegration": true
